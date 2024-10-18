@@ -9,7 +9,7 @@ const projectsData = [
     id: 1,
     title: "Bella Aurora LB",
     description: "Key features often include galleries, case studies, and testimonials, allowing visitors to understand the creator's process and impact. Additionally, portfolio websites often incorporate contact forms and social media links, making it easy for potential clients or collaborators to connect.",
-    image: "/images/gifFile3.GIF",
+    image: "/images/gifFile2.GIF",
     tag: ["All", "Web"],
     gitUrl: "",
     previewUrl: "https://www.instagram.com/bellaaurora_lebanon?igsh=cXAyYXRseHhhcWJn",
@@ -17,7 +17,7 @@ const projectsData = [
   {
     id: 6,
     title: "Ragheb Dakdouk Salon",
-    image: "/images/gifFile1.GIF",
+    image: "/images/gifFile6.GIF",
     previewUrl: "https://www.instagram.com/ragheb_dakdouk?igsh=MWw2Y2RvZGkyYmtyNQ==",
   },
   {
@@ -29,19 +29,19 @@ const projectsData = [
   {
     id: 3,
     title: "Slimit Clinic",
-    image: "/images/gifFile2.GIF",
+    image: "/images/gifFile4.GIF",
     previewUrl: "https://www.instagram.com/slimitclinic?igsh=bDgyYnpicmh5bnpu",
   },
   {
     id: 3,
     title: "Slimit Clinic",
-    image: "/images/gifFile4.GIF",
+    image: "/images/gifFile3.GIF",
     previewUrl: "https://www.instagram.com/slimitclinic?igsh=bDgyYnpicmh5bnpu",
   },
   {
     id: 4,
     title: "Crystal Care Clinic",
-    image: "/images/gifFile6.GIF",
+    image: "/images/gifFile1.GIF",
     previewUrl: "https://www.instagram.com/crystalcareclinic?igsh=MWdzNTF3aWVpb3lweg==",
   }
 ];
